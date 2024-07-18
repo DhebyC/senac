@@ -1,5 +1,32 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
 header{
+    display: flex;
     width: 100%;
-    background-color: aqua;
+    background-color: #3E301B;
     height: 100px;
+}
+.imagem_cabecalho_home{
+    margin-left: 5px;
+}
+.titulo_cabecalho_home{
+    width: 100%;
+    text-align: center;
+    padding: 20px 50px;
+    color: aliceblue;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+}
+#logo{
+    border-radius: 50%;
+}
+.conteudo_home{
+    height: 70vh;
+    width: 100%;
+    background-image: url("../imagens/pexels-nickoloui-1319460.jpg");
+    background-position:bottom;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }

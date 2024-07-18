@@ -1,2 +1,12 @@
-// #id: unico
-class.:  conjunto
+/* #id: unico
+.class:  conjunto
+css interno - Head
+css inline - tag
+css externa - arquivo.css
+<header>
+<main>
+<footer>
+<section>
+<article>
+<aside>
+*/
